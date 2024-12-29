@@ -5,7 +5,7 @@
 [![StyleCI](https://styleci.io/repos/99206904/shield)](https://styleci.io/repos/99206904)
 [![License](https://poser.pugx.org/alfa6661/laravel-autonumber/license)](https://packagist.org/packages/alfa6661/laravel-autonumber)
 
-
+Forked from `alfa6661/laravel-autonumber`
 Laravel package to create autonumber for Eloquent model
 
 # Installation
@@ -13,7 +13,7 @@ Laravel package to create autonumber for Eloquent model
 You can install the package via composer:
 
 ```
-composer require alfa6661/laravel-autonumber
+composer require HansYoucef/laravel-autonumber
 ```
 
 Register the ServiceProvider in `config/app.php`
