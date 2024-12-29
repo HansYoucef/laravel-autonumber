@@ -16,7 +16,7 @@
         {
             "name": "HansYoucef",
             "email": "h.youcef6346@gmail.com"
-        },
+        }
     ],
     "require": {
         "laravel/framework": ">=5.1"
